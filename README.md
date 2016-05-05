@@ -1,2 +1,2 @@
-# fun-with-photos-part-1
-First part of the "Fun With Photos" lessons. Involves using Gimp.
+# imaging
+Lessons involving working with digital image techniques, including photo manipulation and vector graphics.
